@@ -13,3 +13,5 @@ C:\Project\Service-API-7\service-api\Domains\Share\MongoDB.Common\obj\Debug\net7
 C:\Project\Service-API-7\service-api\Domains\Share\MongoDB.Common\obj\Debug\net7.0\refint\MongoDB.Common.dll
 C:\Project\Service-API-7\service-api\Domains\Share\MongoDB.Common\obj\Debug\net7.0\MongoDB.Common.pdb
 C:\Project\Service-API-7\service-api\Domains\Share\MongoDB.Common\obj\Debug\net7.0\ref\MongoDB.Common.dll
+C:\Project\Service-API-7\service-api\Domains\Share\MongoDB.Common\bin\Debug\net7.0\Common.Model.dll
+C:\Project\Service-API-7\service-api\Domains\Share\MongoDB.Common\bin\Debug\net7.0\Common.Model.pdb

@@ -10,3 +10,6 @@ C:\Project\Service-API-7\service-api\Domains\Share\Common\obj\Debug\net7.0\Commo
 C:\Project\Service-API-7\service-api\Domains\Share\Common\obj\Debug\net7.0\refint\Common.dll
 C:\Project\Service-API-7\service-api\Domains\Share\Common\obj\Debug\net7.0\Common.pdb
 C:\Project\Service-API-7\service-api\Domains\Share\Common\obj\Debug\net7.0\ref\Common.dll
+C:\Project\Service-API-7\service-api\Domains\Share\Common\bin\Debug\net7.0\Common.Model.dll
+C:\Project\Service-API-7\service-api\Domains\Share\Common\bin\Debug\net7.0\Common.Model.pdb
+C:\Project\Service-API-7\service-api\Domains\Share\Common\obj\Debug\net7.0\Common.csproj.CopyComplete

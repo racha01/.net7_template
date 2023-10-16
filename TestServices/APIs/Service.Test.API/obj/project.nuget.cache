@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "s0SHIHXCw4sVzMxZk2G9X/oe8jxcnHfc/soM41foGUQmEw5zUiA9/OQrCaH+r2kO/p/2FJuzH3oDg015EIvomw==",
+  "dgSpecHash": "Sqn2yGjaWdwtWt5WDKLfvUNFIzCeaZmf1zVW7k6FhxFKUppITO18Q0w2DCD5g7d5fjf5xgqtM7c9FRYtYC456g==",
   "success": true,
   "projectFilePath": "C:\\Project\\Service-API-7\\service-api\\TestServices\\APIs\\Service.Test.API\\Service.Test.API.csproj",
   "expectedPackageFiles": [
@@ -35,7 +35,9 @@
     "C:\\Users\\rachanon.kl\\.nuget\\packages\\microsoft.extensions.dependencymodel\\2.1.0\\microsoft.extensions.dependencymodel.2.1.0.nupkg.sha512",
     "C:\\Users\\rachanon.kl\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\2.2.0\\microsoft.extensions.fileproviders.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\rachanon.kl\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\2.2.0\\microsoft.extensions.hosting.abstractions.2.2.0.nupkg.sha512",
-    "C:\\Users\\rachanon.kl\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.2.0\\microsoft.extensions.logging.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\rachanon.kl\\.nuget\\packages\\microsoft.extensions.http\\7.0.0\\microsoft.extensions.http.7.0.0.nupkg.sha512",
+    "C:\\Users\\rachanon.kl\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\rachanon.kl\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
     "C:\\Users\\rachanon.kl\\.nuget\\packages\\microsoft.extensions.objectpool\\2.2.0\\microsoft.extensions.objectpool.2.2.0.nupkg.sha512",
     "C:\\Users\\rachanon.kl\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
     "C:\\Users\\rachanon.kl\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",

@@ -2,6 +2,10 @@ using Common.AppSettings.TestAPI;
 using Common.Options;
 using DBContext.MongoDB;
 using Domain.Test.UnitOfWorks;
+using Proxy.Line.Settings;
+using Proxy.Line;
+using Proxy.Line.Authorization.Core;
+using Proxy.Line.Authorization.Core.Interfaces;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,6 +16,8 @@ builder.Services.Configure<AppSettings>(builder.Configuration.GetSection("AppSet
 builder.Services.AddScoped<ILogicUnitOfWork, LogicUnitOfWork>();
 builder.Services.AddScoped<IRepositoryUnit, RepositoryUnit>();
 builder.Services.Configure<MongoDBOptions>(builder.Configuration.GetSection("MongoDBOptions"));
+builder.Services.RegisterLineService(builder.Configuration.GetSection("ServiceSetting").GetSection($"{nameof(LineSetting)}").Get<LineSetting>());
+builder.Services.AddScoped<IOAuthLineManager, OAuthLineManager>();
 
 #region Version
 builder.Services.AddVersionedApiExplorer(

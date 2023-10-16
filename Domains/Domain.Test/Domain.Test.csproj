@@ -7,6 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\Proxies\Proxy.Line.Authorization\Proxy.Line.Authorization.csproj" />
+    <ProjectReference Include="..\..\Proxies\Proxy.Line\Proxy.Line.csproj" />
     <ProjectReference Include="..\Share\DBContext\DBContext.csproj" />
   </ItemGroup>
 

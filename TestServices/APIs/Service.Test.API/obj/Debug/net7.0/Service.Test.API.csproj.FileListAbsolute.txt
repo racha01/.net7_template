@@ -60,3 +60,10 @@ C:\Project\Service-API-7\service-api\TestServices\APIs\Service.Test.API\bin\Debu
 C:\Project\Service-API-7\service-api\TestServices\APIs\Service.Test.API\bin\Debug\net7.0\Microsoft.DotNet.PlatformAbstractions.dll
 C:\Project\Service-API-7\service-api\TestServices\APIs\Service.Test.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
 C:\Project\Service-API-7\service-api\TestServices\APIs\Service.Test.API\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Project\Service-API-7\service-api\TestServices\APIs\Service.Test.API\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Project\Service-API-7\service-api\TestServices\APIs\Service.Test.API\bin\Debug\net7.0\Proxy.Line.dll
+C:\Project\Service-API-7\service-api\TestServices\APIs\Service.Test.API\bin\Debug\net7.0\Share.Proxy.dll
+C:\Project\Service-API-7\service-api\TestServices\APIs\Service.Test.API\bin\Debug\net7.0\Proxy.Line.pdb
+C:\Project\Service-API-7\service-api\TestServices\APIs\Service.Test.API\bin\Debug\net7.0\Share.Proxy.pdb
+C:\Project\Service-API-7\service-api\TestServices\APIs\Service.Test.API\bin\Debug\net7.0\Proxy.Line.Authorization.dll
+C:\Project\Service-API-7\service-api\TestServices\APIs\Service.Test.API\bin\Debug\net7.0\Proxy.Line.Authorization.pdb

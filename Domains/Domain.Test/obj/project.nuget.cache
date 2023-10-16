@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jw9A3peBl1lvjDv32/F53PeS6ajfoE2v21r4x6lp0xXj5snw51itv6mjmgRwRjxatRtO7dX65Xzmm5RE5Y2orw==",
+  "dgSpecHash": "e/paDJXsSrB+1rky3Rbf1V9ZsKBkuM3L14CHNEb//Zt94ZZI7yL8x0+TtD8j/U2UTZ9CspffORLh6TZjq1zAgA==",
   "success": true,
   "projectFilePath": "C:\\Project\\Service-API-7\\service-api\\Domains\\Domain.Test\\Domain.Test.csproj",
   "expectedPackageFiles": [
@@ -9,8 +9,11 @@
     "C:\\Users\\rachanon.kl\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
     "C:\\Users\\rachanon.kl\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\rachanon.kl\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\rachanon.kl\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\rachanon.kl\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
-    "C:\\Users\\rachanon.kl\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\rachanon.kl\\.nuget\\packages\\microsoft.extensions.http\\7.0.0\\microsoft.extensions.http.7.0.0.nupkg.sha512",
+    "C:\\Users\\rachanon.kl\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\rachanon.kl\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
     "C:\\Users\\rachanon.kl\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
     "C:\\Users\\rachanon.kl\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\rachanon.kl\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",

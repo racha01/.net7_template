@@ -21,6 +21,7 @@
   <ItemGroup>
     <ProjectReference Include="..\..\..\Domains\Domain.Test\Domain.Test.csproj" />
     <ProjectReference Include="..\..\..\Domains\Share\Common.Model\Common.Model.csproj" />
+    <ProjectReference Include="..\..\..\Proxies\Proxy.Line\Proxy.Line.csproj" />
   </ItemGroup>
 
 </Project>

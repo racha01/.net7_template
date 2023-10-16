@@ -30,8 +30,69 @@
             "projectReferences": {
               "C:\\Project\\Service-API-7\\service-api\\Domains\\Share\\DBContext\\DBContext.csproj": {
                 "projectPath": "C:\\Project\\Service-API-7\\service-api\\Domains\\Share\\DBContext\\DBContext.csproj"
+              },
+              "C:\\Project\\Service-API-7\\service-api\\Proxies\\Proxy.Line.Authorization\\Proxy.Line.Authorization.csproj": {
+                "projectPath": "C:\\Project\\Service-API-7\\service-api\\Proxies\\Proxy.Line.Authorization\\Proxy.Line.Authorization.csproj"
+              },
+              "C:\\Project\\Service-API-7\\service-api\\Proxies\\Proxy.Line\\Proxy.Line.csproj": {
+                "projectPath": "C:\\Project\\Service-API-7\\service-api\\Proxies\\Proxy.Line\\Proxy.Line.csproj"
               }
             }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Project\\Service-API-7\\service-api\\Domains\\Share\\Common.Model\\Common.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Project\\Service-API-7\\service-api\\Domains\\Share\\Common.Model\\Common.Model.csproj",
+        "projectName": "Common.Model",
+        "projectPath": "C:\\Project\\Service-API-7\\service-api\\Domains\\Share\\Common.Model\\Common.Model.csproj",
+        "packagesPath": "C:\\Users\\rachanon.kl\\.nuget\\packages\\",
+        "outputPath": "C:\\Project\\Service-API-7\\service-api\\Domains\\Share\\Common.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rachanon.kl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -86,7 +147,11 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Project\\Service-API-7\\service-api\\Domains\\Share\\Common.Model\\Common.Model.csproj": {
+                "projectPath": "C:\\Project\\Service-API-7\\service-api\\Domains\\Share\\Common.Model\\Common.Model.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -243,6 +308,220 @@
             "MongoDB.Driver": {
               "target": "Package",
               "version": "[2.22.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Project\\Service-API-7\\service-api\\Proxies\\Proxy.Line.Authorization\\Proxy.Line.Authorization.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Project\\Service-API-7\\service-api\\Proxies\\Proxy.Line.Authorization\\Proxy.Line.Authorization.csproj",
+        "projectName": "Proxy.Line.Authorization",
+        "projectPath": "C:\\Project\\Service-API-7\\service-api\\Proxies\\Proxy.Line.Authorization\\Proxy.Line.Authorization.csproj",
+        "packagesPath": "C:\\Users\\rachanon.kl\\.nuget\\packages\\",
+        "outputPath": "C:\\Project\\Service-API-7\\service-api\\Proxies\\Proxy.Line.Authorization\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rachanon.kl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Project\\Service-API-7\\service-api\\Domains\\Share\\Common\\Common.csproj": {
+                "projectPath": "C:\\Project\\Service-API-7\\service-api\\Domains\\Share\\Common\\Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Project\\Service-API-7\\service-api\\Proxies\\Proxy.Line\\Proxy.Line.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Project\\Service-API-7\\service-api\\Proxies\\Proxy.Line\\Proxy.Line.csproj",
+        "projectName": "Proxy.Line",
+        "projectPath": "C:\\Project\\Service-API-7\\service-api\\Proxies\\Proxy.Line\\Proxy.Line.csproj",
+        "packagesPath": "C:\\Users\\rachanon.kl\\.nuget\\packages\\",
+        "outputPath": "C:\\Project\\Service-API-7\\service-api\\Proxies\\Proxy.Line\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rachanon.kl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Project\\Service-API-7\\service-api\\Proxies\\Share.Proxy\\Share.Proxy.csproj": {
+                "projectPath": "C:\\Project\\Service-API-7\\service-api\\Proxies\\Share.Proxy\\Share.Proxy.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Project\\Service-API-7\\service-api\\Proxies\\Share.Proxy\\Share.Proxy.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Project\\Service-API-7\\service-api\\Proxies\\Share.Proxy\\Share.Proxy.csproj",
+        "projectName": "Share.Proxy",
+        "projectPath": "C:\\Project\\Service-API-7\\service-api\\Proxies\\Share.Proxy\\Share.Proxy.csproj",
+        "packagesPath": "C:\\Users\\rachanon.kl\\.nuget\\packages\\",
+        "outputPath": "C:\\Project\\Service-API-7\\service-api\\Proxies\\Share.Proxy\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rachanon.kl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Project\\Service-API-7\\service-api\\Domains\\Share\\Common.Model\\Common.Model.csproj": {
+                "projectPath": "C:\\Project\\Service-API-7\\service-api\\Domains\\Share\\Common.Model\\Common.Model.csproj"
+              },
+              "C:\\Project\\Service-API-7\\service-api\\Domains\\Share\\Common\\Common.csproj": {
+                "projectPath": "C:\\Project\\Service-API-7\\service-api\\Domains\\Share\\Common\\Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.1, )"
             }
           },
           "imports": [

@@ -40,6 +40,16 @@
             "related": ".xml"
           }
         }
+      },
+      "Common.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Common.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Common.Model.dll": {}
+        }
       }
     }
   },
@@ -117,10 +127,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Common.Model/1.0.0": {
+      "type": "project",
+      "path": "../Common.Model/Common.Model.csproj",
+      "msbuildProject": "../Common.Model/Common.Model.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "Common.Model >= 1.0.0",
       "MongoDB.Bson >= 2.22.0"
     ]
   },
@@ -150,7 +166,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Project\\Service-API-7\\service-api\\Domains\\Share\\Common.Model\\Common.Model.csproj": {
+              "projectPath": "C:\\Project\\Service-API-7\\service-api\\Domains\\Share\\Common.Model\\Common.Model.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

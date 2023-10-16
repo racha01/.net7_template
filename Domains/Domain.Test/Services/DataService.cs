@@ -4,6 +4,8 @@ using DBContext.MongoDB;
 using DBContext.MongoDB.Models;
 using Domain.Test.Models;
 using MongoDB.Bson;
+using Proxy.Line.Authorization.Core.Interfaces;
+using Proxy.Line.V1;
 
 namespace Domain.Test.Services
 {
@@ -16,10 +18,15 @@ namespace Domain.Test.Services
     public class DataService : IDataService
     {
         private readonly IRepositoryUnit _repositoryUnit;
+        private readonly ILineProxy _lineProxy;
+        private readonly IOAuthLineManager _oAuthLineManager;
+        public readonly CancellationToken cancellationToken = new CancellationToken();
 
-        public DataService(IRepositoryUnit repositoryUnit)
+        public DataService(IRepositoryUnit repositoryUnit, ILineProxy lineProxy, IOAuthLineManager oAuthLineManager)
         {
             _repositoryUnit = repositoryUnit;
+            _lineProxy = lineProxy;
+            _oAuthLineManager = oAuthLineManager;
         }
 
         #region Get
@@ -27,6 +34,9 @@ namespace Domain.Test.Services
         public async Task<PaginationModel<DataModel>> GetDataAsync(int? pageNo, int? pageSize)
         {
             var datas = await _repositoryUnit.DataRepository.GetPagingAsync(_ => true, pageNo.Value, pageSize.Value);
+
+            string accessToken = await _oAuthLineManager.GetAccessTokenAsync(cancellationToken);
+            var profileData = await _lineProxy.GetProfileAsync(accessToken, "Ufac0abfa0b67c229c49d2561a479883e", cancellationToken);
 
             var dataPaginationModel = new PaginationModel<DataModel>()
             {
@@ -39,7 +49,7 @@ namespace Domain.Test.Services
                 Items = datas.Items.Select(s => new DataModel()
                 {
                     Id = s.id.ToString(),
-                    Data = s.data
+                    Data = profileData.PictureUrl
                 }).ToList<DataModel>(),
             };
 

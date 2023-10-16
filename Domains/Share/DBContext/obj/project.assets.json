@@ -374,6 +374,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "Common.Model": "1.0.0",
           "MongoDB.Bson": "2.22.0"
         },
         "compile": {
@@ -381,6 +382,16 @@
         },
         "runtime": {
           "bin/placeholder/Common.dll": {}
+        }
+      },
+      "Common.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Common.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Common.Model.dll": {}
         }
       },
       "MongoDB.Common/1.0.0": {
@@ -1055,6 +1066,11 @@
       "type": "project",
       "path": "../Common/Common.csproj",
       "msbuildProject": "../Common/Common.csproj"
+    },
+    "Common.Model/1.0.0": {
+      "type": "project",
+      "path": "../Common.Model/Common.Model.csproj",
+      "msbuildProject": "../Common.Model/Common.Model.csproj"
     },
     "MongoDB.Common/1.0.0": {
       "type": "project",

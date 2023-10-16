@@ -17,3 +17,11 @@ C:\Project\Service-API-7\service-api\Domains\Domain.Test\obj\Debug\net7.0\Domain
 C:\Project\Service-API-7\service-api\Domains\Domain.Test\obj\Debug\net7.0\refint\Domain.Test.dll
 C:\Project\Service-API-7\service-api\Domains\Domain.Test\obj\Debug\net7.0\Domain.Test.pdb
 C:\Project\Service-API-7\service-api\Domains\Domain.Test\obj\Debug\net7.0\ref\Domain.Test.dll
+C:\Project\Service-API-7\service-api\Domains\Domain.Test\bin\Debug\net7.0\Common.Model.dll
+C:\Project\Service-API-7\service-api\Domains\Domain.Test\bin\Debug\net7.0\Common.Model.pdb
+C:\Project\Service-API-7\service-api\Domains\Domain.Test\bin\Debug\net7.0\Proxy.Line.Authorization.dll
+C:\Project\Service-API-7\service-api\Domains\Domain.Test\bin\Debug\net7.0\Proxy.Line.dll
+C:\Project\Service-API-7\service-api\Domains\Domain.Test\bin\Debug\net7.0\Share.Proxy.dll
+C:\Project\Service-API-7\service-api\Domains\Domain.Test\bin\Debug\net7.0\Proxy.Line.Authorization.pdb
+C:\Project\Service-API-7\service-api\Domains\Domain.Test\bin\Debug\net7.0\Proxy.Line.pdb
+C:\Project\Service-API-7\service-api\Domains\Domain.Test\bin\Debug\net7.0\Share.Proxy.pdb

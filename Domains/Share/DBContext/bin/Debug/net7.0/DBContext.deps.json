@@ -208,10 +208,16 @@
       },
       "Common/1.0.0": {
         "dependencies": {
+          "Common.Model": "1.0.0",
           "MongoDB.Bson": "2.22.0"
         },
         "runtime": {
           "Common.dll": {}
+        }
+      },
+      "Common.Model/1.0.0": {
+        "runtime": {
+          "Common.Model.dll": {}
         }
       },
       "MongoDB.Common/1.0.0": {
@@ -394,6 +400,11 @@
       "hashPath": "zstdsharp.port.0.6.2.nupkg.sha512"
     },
     "Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Common.Model/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
