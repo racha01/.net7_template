@@ -1,0 +1,17 @@
+C:\Project\Service-API-7\service-api\Domains\Share\DBContext\bin\Debug\net7.0\DBContext.deps.json
+C:\Project\Service-API-7\service-api\Domains\Share\DBContext\bin\Debug\net7.0\DBContext.dll
+C:\Project\Service-API-7\service-api\Domains\Share\DBContext\bin\Debug\net7.0\DBContext.pdb
+C:\Project\Service-API-7\service-api\Domains\Share\DBContext\bin\Debug\net7.0\Common.dll
+C:\Project\Service-API-7\service-api\Domains\Share\DBContext\bin\Debug\net7.0\MongoDB.Common.dll
+C:\Project\Service-API-7\service-api\Domains\Share\DBContext\bin\Debug\net7.0\Common.pdb
+C:\Project\Service-API-7\service-api\Domains\Share\DBContext\bin\Debug\net7.0\MongoDB.Common.pdb
+C:\Project\Service-API-7\service-api\Domains\Share\DBContext\obj\Debug\net7.0\DBContext.csproj.AssemblyReference.cache
+C:\Project\Service-API-7\service-api\Domains\Share\DBContext\obj\Debug\net7.0\DBContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Service-API-7\service-api\Domains\Share\DBContext\obj\Debug\net7.0\DBContext.AssemblyInfoInputs.cache
+C:\Project\Service-API-7\service-api\Domains\Share\DBContext\obj\Debug\net7.0\DBContext.AssemblyInfo.cs
+C:\Project\Service-API-7\service-api\Domains\Share\DBContext\obj\Debug\net7.0\DBContext.csproj.CoreCompileInputs.cache
+C:\Project\Service-API-7\service-api\Domains\Share\DBContext\obj\Debug\net7.0\DBContext.csproj.CopyComplete
+C:\Project\Service-API-7\service-api\Domains\Share\DBContext\obj\Debug\net7.0\DBContext.dll
+C:\Project\Service-API-7\service-api\Domains\Share\DBContext\obj\Debug\net7.0\refint\DBContext.dll
+C:\Project\Service-API-7\service-api\Domains\Share\DBContext\obj\Debug\net7.0\DBContext.pdb
+C:\Project\Service-API-7\service-api\Domains\Share\DBContext\obj\Debug\net7.0\ref\DBContext.dll

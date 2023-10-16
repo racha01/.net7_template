@@ -1,0 +1,11 @@
+C:\Project\Service-API-7\service-api\Domains\Share\Common.Model\bin\Debug\net7.0\Common.Model.deps.json
+C:\Project\Service-API-7\service-api\Domains\Share\Common.Model\bin\Debug\net7.0\Common.Model.dll
+C:\Project\Service-API-7\service-api\Domains\Share\Common.Model\bin\Debug\net7.0\Common.Model.pdb
+C:\Project\Service-API-7\service-api\Domains\Share\Common.Model\obj\Debug\net7.0\Common.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Service-API-7\service-api\Domains\Share\Common.Model\obj\Debug\net7.0\Common.Model.AssemblyInfoInputs.cache
+C:\Project\Service-API-7\service-api\Domains\Share\Common.Model\obj\Debug\net7.0\Common.Model.AssemblyInfo.cs
+C:\Project\Service-API-7\service-api\Domains\Share\Common.Model\obj\Debug\net7.0\Common.Model.csproj.CoreCompileInputs.cache
+C:\Project\Service-API-7\service-api\Domains\Share\Common.Model\obj\Debug\net7.0\Common.Model.dll
+C:\Project\Service-API-7\service-api\Domains\Share\Common.Model\obj\Debug\net7.0\refint\Common.Model.dll
+C:\Project\Service-API-7\service-api\Domains\Share\Common.Model\obj\Debug\net7.0\Common.Model.pdb
+C:\Project\Service-API-7\service-api\Domains\Share\Common.Model\obj\Debug\net7.0\ref\Common.Model.dll

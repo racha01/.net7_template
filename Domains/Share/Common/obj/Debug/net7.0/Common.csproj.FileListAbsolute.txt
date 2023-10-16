@@ -1,0 +1,12 @@
+C:\Project\Service-API-7\service-api\Domains\Share\Common\bin\Debug\net7.0\Common.deps.json
+C:\Project\Service-API-7\service-api\Domains\Share\Common\bin\Debug\net7.0\Common.dll
+C:\Project\Service-API-7\service-api\Domains\Share\Common\bin\Debug\net7.0\Common.pdb
+C:\Project\Service-API-7\service-api\Domains\Share\Common\obj\Debug\net7.0\Common.csproj.AssemblyReference.cache
+C:\Project\Service-API-7\service-api\Domains\Share\Common\obj\Debug\net7.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Service-API-7\service-api\Domains\Share\Common\obj\Debug\net7.0\Common.AssemblyInfoInputs.cache
+C:\Project\Service-API-7\service-api\Domains\Share\Common\obj\Debug\net7.0\Common.AssemblyInfo.cs
+C:\Project\Service-API-7\service-api\Domains\Share\Common\obj\Debug\net7.0\Common.csproj.CoreCompileInputs.cache
+C:\Project\Service-API-7\service-api\Domains\Share\Common\obj\Debug\net7.0\Common.dll
+C:\Project\Service-API-7\service-api\Domains\Share\Common\obj\Debug\net7.0\refint\Common.dll
+C:\Project\Service-API-7\service-api\Domains\Share\Common\obj\Debug\net7.0\Common.pdb
+C:\Project\Service-API-7\service-api\Domains\Share\Common\obj\Debug\net7.0\ref\Common.dll

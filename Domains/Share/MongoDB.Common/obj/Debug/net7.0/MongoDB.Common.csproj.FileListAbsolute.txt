@@ -1,0 +1,15 @@
+C:\Project\Service-API-7\service-api\Domains\Share\MongoDB.Common\bin\Debug\net7.0\MongoDB.Common.deps.json
+C:\Project\Service-API-7\service-api\Domains\Share\MongoDB.Common\bin\Debug\net7.0\MongoDB.Common.dll
+C:\Project\Service-API-7\service-api\Domains\Share\MongoDB.Common\bin\Debug\net7.0\MongoDB.Common.pdb
+C:\Project\Service-API-7\service-api\Domains\Share\MongoDB.Common\bin\Debug\net7.0\Common.dll
+C:\Project\Service-API-7\service-api\Domains\Share\MongoDB.Common\bin\Debug\net7.0\Common.pdb
+C:\Project\Service-API-7\service-api\Domains\Share\MongoDB.Common\obj\Debug\net7.0\MongoDB.Common.csproj.AssemblyReference.cache
+C:\Project\Service-API-7\service-api\Domains\Share\MongoDB.Common\obj\Debug\net7.0\MongoDB.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Service-API-7\service-api\Domains\Share\MongoDB.Common\obj\Debug\net7.0\MongoDB.Common.AssemblyInfoInputs.cache
+C:\Project\Service-API-7\service-api\Domains\Share\MongoDB.Common\obj\Debug\net7.0\MongoDB.Common.AssemblyInfo.cs
+C:\Project\Service-API-7\service-api\Domains\Share\MongoDB.Common\obj\Debug\net7.0\MongoDB.Common.csproj.CoreCompileInputs.cache
+C:\Project\Service-API-7\service-api\Domains\Share\MongoDB.Common\obj\Debug\net7.0\MongoDB.Common.csproj.CopyComplete
+C:\Project\Service-API-7\service-api\Domains\Share\MongoDB.Common\obj\Debug\net7.0\MongoDB.Common.dll
+C:\Project\Service-API-7\service-api\Domains\Share\MongoDB.Common\obj\Debug\net7.0\refint\MongoDB.Common.dll
+C:\Project\Service-API-7\service-api\Domains\Share\MongoDB.Common\obj\Debug\net7.0\MongoDB.Common.pdb
+C:\Project\Service-API-7\service-api\Domains\Share\MongoDB.Common\obj\Debug\net7.0\ref\MongoDB.Common.dll
